@@ -1,4 +1,4 @@
-# P1. Introducing Jupyter Notebooks
+# Introducing Jupyter Notebooks
 
 Jupyter Notebook is an "open-source web application that allows you 
 to create and share documents that contain live Python code, equations,
@@ -72,7 +72,7 @@ first download and unpack it.
 -------------------------
 
 > This is the first part of 
-> *Practical P1: Introduction to Python for Bioinformatics*
+> *Practical A: Introduction to Python for Bioinformatics*
 >
 > Module:
 >  *Introduction to Bioinformatics and Data Science* 
