@@ -35,10 +35,10 @@ ARU account). A great feature of Azure Notebooks is that it is
 easy to share your notebooks with online links (provided the library
 settings are "public"). We will use this feature in the "seminars".
 
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)
-](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
 * To import this practical directly to your Azure Notebooks account
-  just click on the the *launch azurenb* icon above.
+  just click on the the *launch azurenb* icon:
+  [![Azure Notebooks](https://notebooks.azure.com/launch.png)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
 * Login to your Microsoft Account,  Anglia Ruskin students should use their ARU account,
   as explained 
   [here](https://web.anglia.ac.uk/it/services/studentemail/login.phtml) 
@@ -58,9 +58,9 @@ To install Jupyter Notebook follow instructions at https://www.anaconda.com/dist
 
 To use this practical with Jupyter Notebook installed on your computer you will need to first download it:
 
-[<img src="images/download_zip.png" alt="Download zip" width="50px"/>](https://github.com/ARU-Bioinformatics/ibdsA-intro/archive/master.zip)
-
-* Click on the *Download zip* icon above.
+* Click on the *Download zip* icon: 
+  [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
+  ](https://github.com/ARU-Bioinformatics/ibdsA-intro/archive/master.zip)
 * Once the file has downloaded, unzip the file†. 
 * Move the **ibdsA-intro-master** folder created to where you want to work†. 
 * Start Jupyter Notebook† opening a browser tab/window.
