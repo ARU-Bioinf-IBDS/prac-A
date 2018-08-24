@@ -72,7 +72,7 @@ first download and unpack it.
 -------------------------
 
 > This is the first part of 
-> *Practical A: Introduction to Python for Bioinformatics*
+> [Practical A: Introduction to Python for Bioinformatics](https://github.com/ARU-Bioinformatics/ibdsA-index/blob/master/README.md)
 >
 > Module:
 >  *Introduction to Bioinformatics and Data Science* 
