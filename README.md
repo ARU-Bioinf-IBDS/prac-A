@@ -1,4 +1,4 @@
-# Introducing Jupyter Notebooks
+# Practial A: Introducing Jupyter Notebooks
 
 Jupyter Notebook is an "open-source web application that allows you 
 to create and share documents that contain live Python code, equations,
@@ -38,7 +38,7 @@ settings are "public"). We will use this feature in the "seminars".
 * To import this practical directly to your Azure Notebooks account
   just click on the the *launch azurenb* icon:
   [![Launch Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-intro/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinf-IBDS/prac-A/)
 * Login to your Microsoft Account,  Anglia Ruskin students should use their ARU account,
   as explained 
   [here](https://web.anglia.ac.uk/it/services/studentemail/login.phtml) 
@@ -60,7 +60,7 @@ To use this practical with Jupyter Notebook installed on your computer you will 
 first download and unpack it.
 * Click on the *Download zip* icon: </br>
   [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
-  ](https://github.com/ARU-Bioinformatics/ibdsA-intro/archive/master.zip)
+  ](https://github.com/ARU-Bioinf-IBDS/prac-A/archive/master.zip)
 * Once the file has downloaded, unzip the file†. 
 * Move the **ibdsA-intro-master** folder created to where you want to work†. 
 * Start Jupyter Notebook† opening a browser tab/window.
@@ -71,8 +71,8 @@ first download and unpack it.
 > † How you do this varies between Windows, Mac and Linux computers.
 -------------------------
 
-> This is the first part of 
-> [Practical A: Introduction to Python for Bioinformatics](https://github.com/ARU-Bioinformatics/ibdsA-index/blob/master/README.md)
+> This is the first practical from
+> [IBDS Practicals](https://github.com/ARU-Bioinf-IBDS/index/)
 >
 > Module:
 >  *Introduction to Bioinformatics and Data Science* 
