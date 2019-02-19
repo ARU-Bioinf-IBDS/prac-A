@@ -59,7 +59,8 @@ To install Jupyter Notebook follow instructions at https://www.anaconda.com/dist
 To use this practical with Jupyter Notebook installed on your computer you will need to 
 first download and unpack it.
 * Click on the *Download zip* icon: </br>
-  [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
+  [<img src="https://aru-bioinf-ibds.github.io./images/download_zip.png" 
+   alt="Download zip" width="50px"/>
   ](https://github.com/ARU-Bioinf-IBDS/prac-A/archive/master.zip)
 * Once the file has downloaded, unzip the file†. 
 * Move the **ibdsA-intro-master** folder created to where you want to work†. 
