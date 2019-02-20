@@ -47,7 +47,7 @@ settings are "public"). We will use this feature in the "seminars".
 * On the *Import from GitHub?* page that will be presented click on the **Import** button.
 * In the *Create New Library* window that then appears, accept the defaults and click on the **Import** button.
 * Once you have imported the practical then, in Azure Notebooks Library, click on the 
-  **introducing_jupyter_notebooks.ipynb** 
+  **workbook_A.ipynb** 
   notebook to run your first Jupyter Notebook and work through it.
 
 ## Getting Started Instructions using local Jupyter Notebook installation
