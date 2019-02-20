@@ -14,7 +14,8 @@ as explained in this
 Note that the article discusses Juypter Notebooks 
 using their original name "IPython Notebooks". 
 I use Jupyter Notebook in my research, for instance 
-including [a notebook containing data analysis and graph plotting
+including a (HTML version of a)  
+[Jupyter notebook containing data analysis and graph plotting
 ](https://doi.org/10.1107/S2059798318002541/ba5278sup3.html), 
 as part of a
 [research paper](https://doi.org/10.1107/S2059798318002541).
