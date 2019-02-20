@@ -51,6 +51,22 @@ settings are "public"). We will use this feature in the "seminars".
   **workbook_A.ipynb** 
   notebook to run your first Jupyter Notebook and work through it.
 
+## Getting Started Instructions using Google Colab
+
+Google Colab is another service that allows you to run and work on Jupyter 
+in the cloud. 
+* If you have problems in using Azure Notebooks (above) and do not yet have a 
+  local Jupyter Notebook installation (next section below) then use Google Colab
+* Colab requires a Google login (that you will already have if you use gmail) and
+  uses GoogleDrive for storage.
+* The Google Colab user interface is different from Jupyter Notebook but straight forward to use.
+
+To start this practical using Google Colab:
+* **Watch this video showing how to use Colab**
+  *TODO: osmart 20 Feb 2019: Record video on Colab* then ... 
+* [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-A/blob/master/workbook_A.ipynb)
+
 ## Getting Started Instructions using local Jupyter Notebook installation
 
 It is best to use Azure Notebooks for this practical but if there is a problem with doing
