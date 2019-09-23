@@ -63,7 +63,9 @@ in the cloud.
 
 To start this practical using Google Colab:
 * **Watch this video showing how to use Colab**
-  *TODO: osmart 20 Feb 2019: Record video on Colab* then ... 
+  *TODO: osmart 23 Sep 2019: Record video on Colab* then ... 
+* [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-A/blob/master/workbook_A.ipynb)
 * [workbook_A.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-A/blob/master/workbook_A.ipynb)
 
@@ -73,20 +75,25 @@ It is best to use Azure Notebooks for this practical but if there is a problem w
 this you can install Jupyter Notebook on your computer and run it locally.
 To install Jupyter Notebook follow instructions at https://www.anaconda.com/distribution/
 
-To use this practical with Jupyter Notebook installed on your computer you will need to 
-first download and unpack it.
-* Click on the *Download zip* icon: </br>
-  [<img src="https://aru-bioinf-ibds.github.io./images/download_zip.png" 
-   alt="Download zip" width="50px"/>
-  ](https://github.com/ARU-Bioinf-IBDS/prac-A/archive/master.zip)
-* Once the file has downloaded, unzip the file†. 
-* Move the **ibdsA-intro-master** folder created to where you want to work†. 
-* Start Jupyter Notebook† opening a browser tab/window.
-* Open the **introducing_jupyter_notebooks.ipynb** 
-  notebook by clicking on it in your browser. 
-* Work through the notebook.
+* if you are using a local Jupyter Notebook installation, then 
+  * download [workbook_A.ipynb](
+    https://raw.githubusercontent.com/ARU-Bioinf-IBDS/prac-C/master/workbook_A.ipynb)
+    by right clicking on the link and selecting *"Save Link As"*
+  * download [homework_A.ipynb](
+    https://raw.githubusercontent.com/ARU-Bioinf-IBDS/prac-C/master/homework_A.ipynb)
+    by right clicking on the link and selecting *"Save Link As"*
 
-> † How you do this varies between Windows, Mac and Linux computers.
+  Once you have downloaded the notebooks move them to a directory where you are
+  storing your work for this module (I would advise calling this `IBDS` and placing this in a
+  folder that is automatically backed up to OneDrive, GoogleDrive or similar). 
+
+Then in Azure Notebooks or Jupyter Notebook:
+* open the workbook **workbook_A.ipynb** and work through it.
+* once you have completed the workbook, then move onto the homework book **homework_A.ipynb**
+* then go on to [Reflection on Practical A: Introducing Jupyter Notebooks](
+  https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54039).
+
+
 -------------------------
 
 > This is the first practical from
