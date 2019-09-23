@@ -91,7 +91,7 @@ Then in Azure Notebooks or Jupyter Notebook:
 * open the workbook **workbook_A.ipynb** and work through it.
 * once you have completed the workbook, then move onto the homework book **homework_A.ipynb**
 * then go on to [Reflection on Practical A: Introducing Jupyter Notebooks](
-  https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54039).
+  https://canvas.anglia.ac.uk/courses/12178/discussion_topics/104828).
 
 
 -------------------------
